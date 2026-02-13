@@ -1,4 +1,3 @@
-# 💫 About Me:
 <br>## 👋 About Me<br><br>Hi, I'm Tushar Dhamane 👨‍💻  <br>I am a Computer Engineering student passionate about software development and problem-solving.<br><br>💡 I enjoy building real-world projects using Java, SQL, and Web Technologies.  <br>🌱 Currently learning: Data Structures & Algorithms, AWS Cloud Concepts, and Backend Development.  <br>🚀 I love improving my coding skills and preparing for technical interviews.  <br>🎯 Goal: To become a skilled Software Developer and work on impactful projects.<br><br>### 🛠️ Technical Skills<br>- 💻 Languages: Java, SQL, JavaScript<br>- 🌐 Frontend: HTML, CSS, Bootstrap<br>- 🗄️ Database: MySQL<br>- ☁️ Cloud Basics: AWS (S3, EC2, VPC fundamentals)<br>- 🔧 Tools: Git, GitHub, VS Code<br><br>### 📌 Projects<br>- 💰 SpendSense – Expense tracking system<br>- 🌦️ Weather Application – API-based weather app<br>- 📊 Employee Management System (CRUD with SQL)<br><br>📫 Connect with me to collaborate on projects!
 
 
